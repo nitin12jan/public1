@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "xxxxxxxxxxxxxxxx.com.Universal-Links",
+                "paths": [ "/iOS-Universal-Links/*"]
+            }
+        ]
+    }
+}
